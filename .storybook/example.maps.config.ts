@@ -3,7 +3,7 @@ import { WrapperProps } from '@googlemaps/react-wrapper'
 /**
  * Secret Google Mpas API Config
  *
- * Create `maps.congig.ts` in `.storybook` folder
+ * Create `maps.config.ts` in `.storybook` folder
  * with the following content and replace `YOUR_API_KEY`
  * with your API Key provided by Google.
  *
